@@ -29,7 +29,7 @@ A Java Maplestory server emulator. This is a fork of the v203.4 repo [MapleEllin
   -username your_user
   -password your_pw
   ````
-
+- Other link for clients 204.1:https://drive.google.com/file/d/1_MrradqBK_aIgwjPDSFzeWUBCghnE8xr/view
 - For other manifests see [SteamDB](https://steamdb.info/depot/216151/manifests/)
 - Setup guide [Google Document](https://docs.google.com/document/d/1BT0IEIUhEIrS9XWISzKcXiSY89PnACYBHnoNI7gIom8/edit?usp=sharing)
 
